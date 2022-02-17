@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @achithran
-- 👀 I’m interested in DEVOPS
+- 👀 I’m interested in a lagugae taht ca talk to computers...
 - 🌱 I’m currently learning IoC
 - 💞️ I’m looking to collaborate on linux projects
 - 📫 How to reach me achithran@gmail.com
