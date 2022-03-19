@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achithran
 - 👀 I’m interested in a langugae that can talk to Any computer ..
-- 🌱 I’m currently learning IoC
+- 🌱 I’m currently learning Advanced Python
 - 💞️ I’m looking to collaborate on linux projects
 - 📫 How to reach me achithran@gmail.com
 
